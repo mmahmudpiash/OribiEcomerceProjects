@@ -10,7 +10,7 @@ import { Link } from 'react-router-dom'
 const Advertise = () => {
   return (
    <>
-   <div className='pt-[160px] py-[120px]'>
+   <div className='pt-[100px] py-[80px]'>
     <Container>
         <Flex className={'justify-between items-center'}>
 

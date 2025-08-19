@@ -6,7 +6,7 @@ const BestSell = () => {
   return (
     <>
     <Container>
-        <Link><div className='bg-[url(/src/assets/Clock.png)] py-[185px] mb-20'></div></Link>
+        <Link><div className='bg-[url(/src/assets/Clock.png)] py-[185px] mt-10 mb-20'></div></Link>
     </Container>
     </>
   )
