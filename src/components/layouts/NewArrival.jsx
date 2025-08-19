@@ -35,6 +35,7 @@ var settings = {
   return (
    <>
    <Container>
+     <h3 className='text-3xl font-bold py-5'>New Arrivals</h3>
      <Slider {...settings}>
       <div>
          <Product ProductImg={ImgOne} bText={"New"} />
